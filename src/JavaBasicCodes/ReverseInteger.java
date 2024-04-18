@@ -1,7 +1,8 @@
+package JavaBasicCodes;
 import java.util.Scanner;
 
 public class ReverseInteger {
-    public static int ReverseInteger(int num){
+    public static int Reverse(int num){
 
         int rev = 0;
         while (num !=0){
@@ -15,7 +16,7 @@ public class ReverseInteger {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the Value: ");
         int num = sc.nextInt();
-        System.out.println(ReverseInteger(num));
+        System.out.println(Reverse(num));
 
     }
 }
