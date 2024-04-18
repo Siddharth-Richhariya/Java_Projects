@@ -1,5 +1,3 @@
-package JavaBasicCodes;
-
 import java.util.Scanner;
 
 public class ReverseInteger {
