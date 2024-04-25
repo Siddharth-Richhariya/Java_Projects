@@ -6,7 +6,7 @@ public class PrimeNumberChecker {
     public Boolean PrimeNumber(int num){
         if (num == 1){
             return true;
-        } else if ((num <= 1)) {
+        } else if ((num < 1)) {
             return false;
         }
         for (int i = 2; i < num; i++){
