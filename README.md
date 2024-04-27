@@ -1,26 +1,26 @@
-DuplicatesArrayIndexValue 
-Factorial 
-Factorial2ndApproach 
-FibonacciSeries 
-FizzBuzzTest 
-GradeCalculator 
-Hello 
-LargestInThreeNumbers 
-LargestInThreeNumbers2ndApproch 
-LargestInThreeNumbers3RdAppoach 
-LeapYearChecker 
-LeftAngleStarPattern 
-PalinDromeChecker 
-PositiveNegativeChecker 
-PrimeNumberChecker 
-PyramidStarPattern 
-ReverseInteger 
-ReverseRightAnglePattern
-RightAngleStarTriangle
-StringReverse
-SumOfOddEvenTillGivenNumber
-SwapNumbers
-SwitchArthmaticProgram
-TableByUserInput
-TriangleClassifier
-VowelConsonantsCount
+1. DuplicatesArrayIndexValue 
+2. Factorial 
+3. Factorial2ndApproach 
+4. FibonacciSeries 
+5. FizzBuzzTest 
+6. GradeCalculator 
+7. Hello 
+8. LargestInThreeNumbers 
+9. LargestInThreeNumbers2ndApproch 
+10. LargestInThreeNumbers3RdAppoach 
+11. LeapYearChecker 
+12. LeftAngleStarPattern 
+13. PalinDromeChecker 
+14. PositiveNegativeChecker 
+15. PrimeNumberChecker 
+16. PyramidStarPattern 
+17. ReverseInteger 
+18. ReverseRightAnglePattern
+19. RightAngleStarTriangle
+20. StringReverse
+21. SumOfOddEvenTillGivenNumber
+22. SwapNumbers
+23. SwitchArthmaticProgram
+24. TableByUserInput
+25. TriangleClassifier
+26. VowelConsonantsCount
