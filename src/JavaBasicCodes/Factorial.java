@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Factorial {
     public static void main(String[] args) {
-        // can give the value of fact till 65
+        // can give the value of factorial till 65
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the Number : ");
         int num =sc.nextInt();
