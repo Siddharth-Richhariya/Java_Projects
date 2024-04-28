@@ -8,7 +8,7 @@ public class Factorial2ndApproach {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the Number : ");
-        // for value of fact more than 65 but takes time if calculations is larger
+        // for value of fact more than 65
         BigInteger num = sc.nextBigInteger();
         BigInteger fact = BigInteger.ONE;
         for (BigInteger i = BigInteger.ONE;
