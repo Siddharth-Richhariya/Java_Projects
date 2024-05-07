@@ -13,7 +13,7 @@ public class TakeAndPrintMarks {
             int marks = sc.nextInt();
             if (marks > 100 || marks < 0) {
                 System.out.println("Invalid marks! Marks should be between 0 and 100.");
-                i--;
+                i--;//if Value is invalid then need to re-enter
             } else {
                 subjects[i] = marks;
             }
