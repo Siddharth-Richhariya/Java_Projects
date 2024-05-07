@@ -17,7 +17,7 @@ public class TwoDArray_FindTheElement {
             for (int j = 0; j < arr[i].length; j++) {
                 if (num == arr[i][j]) {
                     found = true;
-                    break;
+                    System.out.println("Row: "+(i+1)+" ,Coloumn : "+(j+1));
                 }
             }
             if(found){
