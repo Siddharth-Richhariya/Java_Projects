@@ -23,6 +23,5 @@ public class OddEvenPlacedCharactersInAString {
         }
         System.out.println("Odd Placed Charcters : "+oddChar);
         System.out.println("Even Placed Charcters : "+evenChar);
-
     }
 }
