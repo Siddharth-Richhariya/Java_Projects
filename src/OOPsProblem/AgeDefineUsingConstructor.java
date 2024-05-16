@@ -10,7 +10,6 @@ public class AgeDefineUsingConstructor {
         System.out.println("Enter the Age : ");
         int age = sc.nextInt();
         Person person = new Person(age);
-
         for(int i = 0; i < testNumbers; i++){
             person.amIOld();
             person.yearPasses();
