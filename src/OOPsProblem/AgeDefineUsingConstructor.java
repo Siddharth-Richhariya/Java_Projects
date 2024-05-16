@@ -5,14 +5,16 @@ import java.util.*;
 public class AgeDefineUsingConstructor {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the upcoming Test Numbers: ");
+        int testNumbers = sc.nextInt();
         System.out.println("Enter the Age : ");
         int age = sc.nextInt();
         Person person = new Person(age);
-        person.amIOld();
-        for (int j = 0; j < 3; j++) {
+
+        for(int i = 0; i < testNumbers; i++){
+            person.amIOld();
             person.yearPasses();
         }
-        person.amIOld();
         sc.close();
     }
 }
