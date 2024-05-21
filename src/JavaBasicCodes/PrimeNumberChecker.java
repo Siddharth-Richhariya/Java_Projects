@@ -3,7 +3,7 @@ package JavaBasicCodes;
 import java.util.Scanner;
 
 public class PrimeNumberChecker {
-    public static Boolean PrimeNumber(int num){
+    static Boolean PrimeNumber(int num){
         if (num == 1 || num < 1){
             return true;
         }

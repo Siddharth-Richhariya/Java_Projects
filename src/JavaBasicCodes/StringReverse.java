@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class StringReverse {
 
-    public String reverseString(String str){
+    String reverseString(String str){
         String rev="";
         for (int i =str.length()-1; i >=0; i--){
             char r = str.charAt(i);

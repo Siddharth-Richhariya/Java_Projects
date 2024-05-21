@@ -2,7 +2,7 @@ package JavaBasicCodes;
 import java.util.Scanner;
 
 public class ReverseInteger {
-    public static int Reverse(int num){
+    static int Reverse(int num){
 
         int rev = 0;
         while (num !=0){

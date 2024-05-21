@@ -9,7 +9,7 @@ public class PositiveNegativeChecker {
         int num = sc.nextInt();
         PNChecker(num);
     }
-    public static void PNChecker(int num){
+    static void PNChecker(int num){
         if (num >= 1){
             System.out.println("Positive Number");
         }else if (num  < 0){
