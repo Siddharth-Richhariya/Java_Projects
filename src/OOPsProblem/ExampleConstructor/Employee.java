@@ -8,9 +8,6 @@ public class Employee {
     String BU;
     String designation;
 
-    Employee(){
-        System.out.println("This is avenger");
-    }
 
     Employee(String Name, int empID, String companyname,double salary, String BU, String Designation){
         this.name = Name;
@@ -20,9 +17,13 @@ public class Employee {
         this.designation = Designation;
         this.companyName = companyname;
 
+    }
+
+    void printDetails ()
+    {
         System.out.println("Employee name ->" +name);
         System.out.println("Employee ID ->" +empID);
-        System.out.println("Employee Company Name ->" +companyname);
+        System.out.println("Employee Company Name ->" +companyName);
         System.out.println("Employee salary ->" +salary);
         System.out.println("Employee BU ->" +BU);
         System.out.println("Employee Designation ->" +designation);
