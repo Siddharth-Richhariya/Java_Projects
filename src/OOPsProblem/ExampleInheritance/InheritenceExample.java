@@ -1,4 +1,4 @@
-package OOPsProblem;
+package OOPsProblem.ExampleInheritance;
 
 public class InheritenceExample {
     public static void main(String[] args) {
