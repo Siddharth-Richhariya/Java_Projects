@@ -14,6 +14,8 @@ public class Dog {
     Dog(String Breed, String type){
         this(type);
         this.Breed = Breed;
+    }
+    void display(){
         System.out.println("Type : "+ type + "\nBreed : "+ Breed);
     }
 }
