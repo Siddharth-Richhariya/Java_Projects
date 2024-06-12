@@ -1,8 +1,8 @@
 package OOPsProblem.ExampleConstructor.ConstructorChaining;
 
 public class Dog {
-    String type;
-    String Breed;
+    private String type;
+    private String Breed;
 
     Dog(){
         System.out.println("This is DOG Class");
