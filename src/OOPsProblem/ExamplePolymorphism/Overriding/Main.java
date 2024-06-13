@@ -3,10 +3,10 @@ package OOPsProblem.ExamplePolymorphism.Overriding;
 public class Main {
     public static void main(String[] args) {
         GTR GTR = new GTR();
-        GTR.engine();       //V6 Engine
-        GTR.Brake();        //Disc
+        GTR.engine();           //V6 Engine
+        GTR.Brake();            //Disc
         GTR.Transmission();     //Manual
-        GTR.Tyre();     //Michelin Primacy MXM4
+        GTR.Tyre();             //Michelin Primacy MXM4
     }
 }
 class Vehicle {
