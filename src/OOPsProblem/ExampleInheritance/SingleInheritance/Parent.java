@@ -6,4 +6,5 @@ public class Parent {
     public void printInfo(){
         System.out.println(name+" "+num);
     }
+
 }
