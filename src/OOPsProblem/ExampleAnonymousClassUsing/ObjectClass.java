@@ -1,4 +1,4 @@
-package OOPsProblem.ExampleAnonymousClass;
+package OOPsProblem.ExampleAnonymousClassUsing;
 
 public class ObjectClass {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package OOPsProblem.ExampleAnonymousClass;
+package OOPsProblem.ExampleAnonymousClassUsing;
 
 abstract class abstractClass {
     abstract void Display();
