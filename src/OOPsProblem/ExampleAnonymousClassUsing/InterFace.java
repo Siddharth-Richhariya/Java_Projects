@@ -1,4 +1,4 @@
-package OOPsProblem.ExampleAnonymousClass;
+package OOPsProblem.ExampleAnonymousClassUsing;
 
 public interface InterFace {
     default void display(){
