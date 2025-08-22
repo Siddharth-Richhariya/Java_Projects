@@ -13,4 +13,3 @@ public class SquareRootTheListEvenNumbers {
                 forEach(System.out::println);
     }
 }
-
